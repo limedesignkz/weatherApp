@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282085097331",
+    "firebase_url": "https://weatherapp-app-2020.firebaseio.com",
+    "project_id": "weatherapp-app-2020",
+    "storage_bucket": "weatherapp-app-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282085097331:android:c524170f78525c2bd24f06",
+        "android_client_info": {
+          "package_name": "kz.limedesign.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282085097331-nhrq1qkeeng28qbffpam9o0emi7rluet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk_CEANKKjuU0-BE5Tu2qAR03z7jT6hOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282085097331-nhrq1qkeeng28qbffpam9o0emi7rluet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
